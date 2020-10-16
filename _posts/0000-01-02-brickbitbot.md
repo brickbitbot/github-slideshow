@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Major Tom to ground control...
 Use the left arrow to go back!
